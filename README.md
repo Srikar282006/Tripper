@@ -18,3 +18,7 @@ conda activate travel
 ```bash
 pip install -r requirements.txt
 ```
+4. Running the application
+```bash
+ python app.py
+```
